@@ -1,0 +1,13 @@
+{
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"http://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/wordpress-seo":">1.7.3",
+        "wpackagist-plugin/simple-google-analytics-tracking":">1.0",
+        "wpackagist-theme/hueman":"*"
+    }
+}
