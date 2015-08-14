@@ -13,6 +13,8 @@
         "wpackagist-plugin/regenerate-thumbnails":"*",
         "wpackagist-plugin/responsive-lightbox":"*",
         "wpackagist-plugin/wp-pagenavi":"*",
+        "wpackagist-plugin/wp-markdown":"*",
+        "wpackagist-plugin/markdownbar":"*",
         "johnpbloch/wordpress":">4.2"
     }
 }
