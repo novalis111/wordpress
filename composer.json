@@ -9,6 +9,10 @@
         "wpackagist-plugin/wordpress-seo":">1.7.3",
         "wpackagist-plugin/simple-google-analytics-tracking":">1.0",
         "wpackagist-theme/hueman":"*",
+        "wpackagist-plugin/contact-form-7":"*",
+        "wpackagist-plugin/regenerate-thumbnails":"*",
+        "wpackagist-plugin/responsive-lightbox":"*",
+        "wpackagist-plugin/wp-pagenavi":"*",
         "johnpbloch/wordpress":">4.2"
     }
 }
