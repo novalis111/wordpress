@@ -15,6 +15,7 @@
         "wpackagist-plugin/wp-pagenavi":"*",
         "wpackagist-plugin/wp-markdown":"*",
         "wpackagist-plugin/markdownbar":"*",
+        "wpackagist-plugin/enlighter":"*",
         "johnpbloch/wordpress":">4.2"
     }
 }
